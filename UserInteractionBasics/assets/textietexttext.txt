@@ -1,0 +1,1 @@
+this is a text file! Isn't that cool. I was read from the assets folder of the application. I can store many types of files in this locaiton for quick access. All you need is an asset manager to access this files in the folder. You can even have subfolders. Just know the correct path.
